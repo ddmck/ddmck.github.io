@@ -6,19 +6,19 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          'The Jekyll Butler'
-description:      'Base theme for Jekyll themes by @mdo.'
-url:              http://getpoole.com
+title:            Donald McKendrick
+tagline:          'Developer and Entrepreneur'
+description:      'Developer at <a href="http://floatapp.com" target="_blank">Float</a> and aspiring entrepreneur.'
+url:              http://donaldmckendrick.com
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Donald McKendrick'
+  url:            https://twitter.com/deardonald
 
-paginate:         1
+paginate:         5
 
 # Custom vars
-version:          1.0.0
+# version:          2.0.0
 
-github:
-  repo:           https://github.com/poole/poole
+# github:
+#   repo:           https://github.com/poole/hyde
