@@ -7,7 +7,7 @@ A year into a Ph.D. in Chemistry I began to realise a career in academia wasn't 
 
 Luckily thanks to a [Lifehacker post on the Codecademy Year of Code](http://lifehacker.com/5872682/learn-to-code-in-2012-with-free-weekly-programming-lessons-from-codecademy) I realised I was more than capable of teaching myself new skills and that I enjoyed messing around with programming to [tweet Samuel L. Jackson monologues without much effort on my part](https://github.com/ddmck/StoryTweeter). My main worries were based on my reputation being damaged by quitting my Ph.D. and the chances of getting hired for a job in a field that I had no qualifications in. Eventually the stress of being unhappy in my current career and descision fagtigue from my inability to find the path to fulfullment in life led to me leaving my position in Amsterdam and returning to Edinburgh to recover.
 
-From then on I scoured the internet for free resources to teach myself the foundation of web development with the aim to build the startups I had been dreaming up. Here are the list of those that I found the most useful:
+From then on I scoured the internet for free resources to teach myself the foundations of web development with the aim to build the startups I had been dreaming up. Here are the list of those that I found the most useful:
 
 ## Great for finding your footing
 
