@@ -12,6 +12,11 @@
       {{ site.title }} &middot; {{ site.tagline }}
     {% endif %}
   </title>
+  {% if page.description %}
+    <meta name="description" content="{{page.description}}" />
+  {% else %}
+    <meta name="description" content="{{site.description}}" />
+  {% endif %}
 
   <!-- CSS -->
   <link rel="stylesheet" href="/public/css/poole.css">

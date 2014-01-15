@@ -8,7 +8,8 @@ permalink:        pretty
 # Setup
 title:            Donald McKendrick
 tagline:          'Developer and Entrepreneur'
-description:      'Developer at <a href="http://floatapp.com" target="_blank">Float</a> and aspiring entrepreneur.'
+description:      'Developer at Float and aspiring entrepreneur. I write about learning Rails and Startups'
+side-description: 'Developer at <a href="http://floatapp.com">Float</a> and aspiring entrepreneur.'
 url:              http://donaldmckendrick.com
 
 author:

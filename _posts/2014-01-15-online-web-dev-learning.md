@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My Experience Learning Web Development Online - Part One
+description: Using Codecademy, Udacity and General Assembly to learn HTML, CSS, Ruby and Python basics for free and even find out how search engines work!
 ---
 
 A year into a Ph.D. in Chemistry I began to realise a career in academia wasn't agreeing with me. When thinking about how best to point my life in a new direction my mind naturally wandered to going back through University. Courses I considered varied from Aerospace Engineering to Education UX design. After a bit of introspection (but not before travelling to Brussels by Megabus to sit the GRE) I realised I didn't have the patience to sit through 4-5 years of lectures.
