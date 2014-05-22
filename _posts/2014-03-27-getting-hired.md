@@ -3,21 +3,21 @@ layout: post
 title: My Experience Learning Web Dev - Part Three - Getting Hired
 description: Getting hired for a Ruby on Rails Entry level position in a Start Up
 ---
-After learning enough web development fundamentals to have some apps in the wild I started to look into getting hired. Job sites were a bit of a mess, and ruby on rails didnt seem to be big in edinburgh.
+After learning enough web development fundamentals to have some apps in the wild I started to look into getting hired. Job sites were a bit of a mess, and ruby on rails didnt seem to be big in Edinburgh.
 
 ## The things I did
 
 ### Check that I actually knew what I was talking about 
 
-All the apps I had built from the many tutorials I had been through I went back through once more but introducing variables. I swapped out the css in the blogger app for bootstrap. I used haml for the Micheal Hartl tutorial instead of erb. I deployed a website to digital ocean rather than heroku. I learned how to upload images to S3 rather than to the local drive (thanks for the nudge read-only heroku access).
+All the apps I had built from the many tutorials I had been through I went back through once more but introducing variables. I swapped out the CSS in the blogger app for Bootstrap. I used HAML for the Micheal Hartl tutorial instead of ERB. I deployed a website to Digital Ocean rather than Heroku. I learned how to upload images to S3 rather than to the local drive (thanks for the nudge read-only heroku access).
 
 ### Go to the nearest Tech Incubator/ Co-working Space
 
-A new incubator had sprung up in Edinburgh, with an introductory offer of £60pm for hotdesking (co working without a desk to call your own, simply take one thats free on the day). I pondered the opportunity until they posted a picture of the reception staff with a French Bulldog and then I trotted accross town the next day with hopes of getting hired and getting the chance to pet a french bulldog. 
+A new incubator had sprung up in Edinburgh, with an introductory offer of £60pm for hotdesking (co working without a desk to call your own, simply take one thats free on the day). I pondered the opportunity until they posted a picture of the reception staff with a French Bulldog and then I trotted accross town the next day with hopes of getting hired and getting the chance to pet a French Bulldog. 
 
 ### Figure out the companies nearby using the same languages
 
-Really easy to find out if the companies are hiring other wise you have to do some snooping on their staffs github/linkedin/twitter profiles. Sent cold emails to the companies not hiring enquiring about possibilities of interning and application letters to those with vacancies. 
+It's really easy to find out if the companies are hiring,  other wise you have to do some snooping on their staffs github/linkedin/twitter profiles. Sent cold emails to the companies not hiring enquiring about possibilities of interning and application letters to those with vacancies. 
 
 ### Read up on interview questions
 
