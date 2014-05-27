@@ -4,7 +4,7 @@ title: I Wrote Some Terrible Code
 description: I got excited about building MathApi and forgot all the good ruby technique I had learned.
 ---
 
-Last week I pushed up the Math API I had been thinking of for a while but only worked on briefly. The code was quite concise but rather disconnected. The question generator had no knowledge of the solution checker for example. Original code below.
+Last week I pushed up the [Math API](http://donaldmckendrick.com/2014/05/22/an-api-for-math/) I had been thinking of for a while but only worked on briefly. The code was quite concise but rather disconnected. The question generator had no knowledge of the solution checker for example. Original code below.
 
 {% highlight ruby %}
 def additionGenerator(opts = {})
