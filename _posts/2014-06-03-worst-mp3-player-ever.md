@@ -3,10 +3,6 @@ layout: post
 title: The worst MP3 player in the world
 description: I built the worst MP3 player in the world using Buzz.js and Github pages
 ---
-
-<style>
-</style>
-
 <div class="btn-group">
   <button type="button" id="play" class="btn btn-primary btn-lg"><span class="glyphicon glyphicon-play"></span></button>
   <button type="button" id="pause" class="btn btn-warning btn-lg"><span class="glyphicon glyphicon-pause"></span></button>
