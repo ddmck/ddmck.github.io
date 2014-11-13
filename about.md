@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-After taking part in the Codecademy Year of Code I decided to leave my career in Academia take the knowledge I had gained from Codecademy and apply it to Web Development. I rented a hotdesking space at Edinburgh TechCube to focus on learning Ruby on Rails and meet Startups located in the building who were using it to prototype and build their services. This led me to meeting the co-founders of Float who gave me an opportunity to shadow them, allowing me to put the skills I had taught myself into practice, and for them to see if I was a good fit for the company.
+After taking part in the Codecademy Year of Code I decided to leave my career in Academia take the knowledge I had gained from Codecademy and apply it to Web Development. I rented a hotdesking space at Edinburgh TechCube to focus on learning Ruby on Rails and to meet Startups located in the building who were using Rails to prototype and build their services. This led me to meeting the co-founders of Float who gave me an opportunity to pair with them, allowing me to put the skills I had taught myself into practice, and for them to see if I was a good fit for the company.
 
 Currently I work at StoreLuv and try to mentor those in the community that are learning web-development (previously this included an ex-lawyer.) I also volunteer with CodeFirst:Girls as the Edinburgh Lead Instructor.
 
