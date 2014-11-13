@@ -7,9 +7,10 @@ permalink:        pretty
 
 # Setup
 title:            Donald McKendrick
-tagline:          'Developer and Entrepreneur'
-description:      'Developer at Float and aspiring entrepreneur. I write about learning Rails and Startups'
-side-description: 'Developer at <a href="http://floatapp.com">Float</a> and aspiring entrepreneur.'
+
+tagline:          'CTO and Entrepreneur'
+description:      'CTO at <a href="http://www.storeluv.com" target="_blank">StoreLuv</a> and aspiring entrepreneur.'
+side-description: 'CTO at <a href="http://www.storeluv.com" target="_blank">StoreLuv</a> and aspiring entrepreneur.'
 url:              http://donaldmckendrick.com
 
 author:

@@ -5,24 +5,38 @@ title: About
 
 After taking part in the Codecademy Year of Code I decided to leave my career in Academia take the knowledge I had gained from Codecademy and apply it to Web Development. I rented a hotdesking space at Edinburgh TechCube to focus on learning Ruby on Rails and to meet Startups located in the building who were using Rails to prototype and build their services. This led me to meeting the co-founders of Float who gave me an opportunity to pair with them, allowing me to put the skills I had taught myself into practice, and for them to see if I was a good fit for the company.
 
-Currently I work with Float and try to mentor those in the hotdesking area that are learning web-development (currently this includes an ex-lawyer.)
+Currently I work at StoreLuv and try to mentor those in the community that are learning web-development (previously this included an ex-lawyer.) I also volunteer with CodeFirst:Girls as the Edinburgh Lead Instructor.
 
 ## Current Employment 
 
+### [StoreLuv](http://www.storeluv.com/) - Chief Technical Officer
+
+###### November 2014 - Present
+
+I joined StoreLuv and immediately began migrating the site away from PHP and towards a variety of Node/Ruby backend services that communicate with an AngularJS frontend.
+
+Main tasks (planned and completed):
+
+* Re-architecting the app on a data/api level
+* Adding angular for a dynamic one page experience with lots of interactivity
+* Re-design of the applications look and feel
+* Custom analytics dashboard
+
+## Previous Employment
+
 ### [Float](http://floatapp.com) - Developer
 
-###### 2013 - Present
+###### 2013 - 2014
 
-Float has given me the opportunity to apply myself to a wide range of roles, learn how to run a business and grow a customer base.
+Float gave me the opportunity to apply myself to a wide range of roles, learn how to run a business and grow a customer base.
 
-Some of the projects I have been involved in include:
+Some of the projects I was involved in/lead include:
 
+* Complete re-design of the Frontend
 * Replacing the payment system with [Stripe](http://www.stripe.com)
 * Developing the Partner program 
 * Creating a Web Development Bootcamp to train new employees
 * Building the Support, Marketing and Blog sites
-
-## Previous Employment
 
 ### [University of Amsterdam](http://www.uva.nl/en/home) - Theoretical Chemistry/Physics Research Assistant
 
